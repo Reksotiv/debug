@@ -1,0 +1,5 @@
+//id;Name;Side Texture;Top Texture;Down Texture
+1;Stone;andesite.png;andesite.png;andesite.png
+2;Diamond_Ore;diamond_ore.png;diamond_ore.png;diamond_ore.png
+3;Dirt;dirt.png;dirt.png;dirt.png
+4;Oak_log;oak_log.png;oak_log_top.png;oak_log_top.png
